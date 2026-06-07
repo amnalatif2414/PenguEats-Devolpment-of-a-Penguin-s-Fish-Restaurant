@@ -49,7 +49,7 @@ Only requirement is **Python 3.x**
 
 Run the program directly:
 ```bash
-python pengu_eats.py
+python Pengueats.py
 ```
 
 ## Known Limitations
